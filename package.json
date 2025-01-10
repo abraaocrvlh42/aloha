@@ -1,0 +1,15 @@
+{
+  "name": "aloha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abraaocrvlh42/aloha.git",
+  "author": "Abraão Carvalho",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  }
+}
