@@ -1,0 +1,26 @@
+{
+  "name": "aloha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaocrvlh42/aloha.git"
+  },
+  "keywords": [
+    "Surf",
+    "Aloha",
+    "Weather",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Abraão Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abraaocrvlh42/aloha/issues"
+  },
+  "homepage": "https://github.com/abraaocrvlh42/aloha#readme",
+  "description": ""
+}
