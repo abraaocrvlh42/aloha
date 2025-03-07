@@ -22,5 +22,11 @@
     "url": "https://github.com/abraaocrvlh42/aloha/issues"
   },
   "homepage": "https://github.com/abraaocrvlh42/aloha#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/module-alias": "^2.0.4"
+  }
 }

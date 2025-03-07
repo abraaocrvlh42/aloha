@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "target": "es2019",
+    "target": "es2024",
     "moduleResolution": "node",
     "module": "commonjs",
-    "lib": ["es2019"],
+    "lib": ["es2024"],
     "sourceMap": true,
     "outDir": "dist",
     "strict": true,
